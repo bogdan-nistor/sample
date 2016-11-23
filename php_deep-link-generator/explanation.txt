@@ -1,0 +1,5 @@
+deep link generator used as service
+
+example generated urls:
+http://reisesuche.de/pauschalreise/hotels/Balearen/Mallorca/100000/133/SXF,TXL,DRS,DUS,HAM/231015-281115/8k/4k/2erw/5625fcfedc1c5
+http://reisesuche.de/pauschalreise/hotels/Balearen/Mallorca/100000/133/SXF,TXL,DRS,DUS,HAM/231015-310816/8k/4k/2erw/inclusive-MW,SP,GO/price1-/stars/HP,AI/facts-1,4,7,6,10,26,56,57,98,131,141,269,218,204,207,224,225,214,215,226,228,230,240,235,236,232,203,247,243,249,202,221,203,250,208,209,219,222,242,244,245,246,187,188,189,190,191,192,193,194,195,197,196,199,200,201,185/5625fcfedc1c5

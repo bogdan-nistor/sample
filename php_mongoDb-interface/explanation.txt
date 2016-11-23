@@ -1,0 +1,3 @@
+Interface to Mongo and class mapping
+ElementTemplate class, used in Configuration as factory design pattern
+what is perhaps interesting is using tail recursion to handle the templates and their properties

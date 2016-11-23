@@ -1,0 +1,1 @@
+download gzipped tsv files from aws S3 and sort on a chosen index using heap binary tree sort and merge, each folder is processed in a separate thread to parallelize

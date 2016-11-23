@@ -1,0 +1,1 @@
+cli script that consumes psr7 compatible messages from aws sqs

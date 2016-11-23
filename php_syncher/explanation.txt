@@ -1,0 +1,1 @@
+concurrent requests to multiple api, in the example Glispa, with create factory objects on callback

@@ -1,0 +1,1 @@
+multipart upload of big files (~10GB) on aws S3, reason is to reduce upload costs caused by restarting the upload process on network failure
